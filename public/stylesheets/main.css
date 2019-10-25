@@ -1,0 +1,19 @@
+/* body {
+    background-color: purple;
+} */
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail .caption {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
